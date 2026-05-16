@@ -1,7 +1,4 @@
 streamlit
-yfinance
 pandas
 plotly
-google-generativeai
-gspread
-google-auth
+matplotlib
